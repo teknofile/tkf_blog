@@ -32,7 +32,7 @@ google_analytics: UA-54324390-1
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-hacker
+theme: minima
 plugins:
   - jekyll-feed
 
